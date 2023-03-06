@@ -41,6 +41,7 @@ int main()
         {
 
             printf("\nDO YOU WANNA TRY AGAIN? ONLY WRITE YES OR NO.\n");
+            a=0;
             scanf("%s", yesorno);
 
             while(yesorno[a] != '\0')
