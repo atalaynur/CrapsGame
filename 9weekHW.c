@@ -42,7 +42,7 @@ printf("1-Create a List\n2-Add a New Record \n3-Delete Registration\n4-The Highe
             case 5: average();
                     break;
             case 6: return 0;
-            default: printf("I'm an overnight choice. Please try again.\n");
+            default: printf("wrong choice,please try again.\n");
                      break;
         }
     }
